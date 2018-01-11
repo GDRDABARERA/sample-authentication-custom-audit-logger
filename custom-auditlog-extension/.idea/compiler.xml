@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="carbon-identity-mgt-coverage-report" />
+        <module name="carbon-identity-mgt-osgi-tests" />
+        <module name="identity-store-handler-test-artifact" />
+        <module name="identity.mgt-test-artifacts.feature" />
+        <module name="in-memory-connectors-test-artifact" />
+        <module name="org.wso2.carbon.custom.email.notification.sender" />
+        <module name="org.wso2.carbon.identity.claim" />
+        <module name="org.wso2.carbon.identity.claim.feature" />
+        <module name="org.wso2.carbon.identity.handler.event.account.lock" />
+        <module name="org.wso2.carbon.identity.mgt" />
+        <module name="org.wso2.carbon.identity.mgt.feature" />
+        <module name="org.wso2.carbon.identity.mgt.login.feature" />
+        <module name="org.wso2.carbon.identity.mgt.login.interceptor" />
+        <module name="org.wso2.carbon.identity.recovery" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="carbon-identity-mgt-coverage-report" target="1.8" />
+      <module name="carbon-identity-mgt-osgi-tests" target="1.8" />
+      <module name="carbon-identity-mgt-test-artifacts" target="1.8" />
+      <module name="carbon-identity-mgt-tests" target="1.8" />
+      <module name="identity-store-handler-test-artifact" target="1.8" />
+      <module name="identity.mgt-test-artifacts.feature" target="1.8" />
+      <module name="in-memory-connectors-test-artifact" target="1.8" />
+      <module name="org.wso2.carbon.custom.email.notification.sender" target="1.5" />
+      <module name="org.wso2.carbon.identity.claim" target="1.8" />
+      <module name="org.wso2.carbon.identity.claim.feature" target="1.8" />
+      <module name="org.wso2.carbon.identity.handler.event.account.lock" target="1.8" />
+      <module name="org.wso2.carbon.identity.mgt" target="1.8" />
+      <module name="org.wso2.carbon.identity.mgt.feature" target="1.8" />
+      <module name="org.wso2.carbon.identity.mgt.login.feature" target="1.8" />
+      <module name="org.wso2.carbon.identity.mgt.login.interceptor" target="1.8" />
+      <module name="org.wso2.carbon.identity.mgt.parent" target="1.8" />
+      <module name="org.wso2.carbon.identity.mgt.test.distribution" target="1.8" />
+      <module name="org.wso2.carbon.identity.recovery" target="1.8" />
+      <module name="org.wso2.carbon.identity.recovery.feature" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
